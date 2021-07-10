@@ -66,7 +66,7 @@ require (
 	golang.org/x/term v0.0.0-20210317153231-de623e64d2a6
 	google.golang.org/api v0.48.0
 	google.golang.org/grpc v1.38.0
-	google.golang.org/protobuf v1.26.0
+	google.golang.org/protobuf v1.27.1
 	gopkg.in/ini.v1 v1.62.0 // indirect
 	gopkg.in/kothar/go-backblaze.v0 v0.0.0-20210124194846-35409b867216
 	gopkg.in/yaml.v2 v2.4.0 // indirect
